@@ -4,7 +4,7 @@ leaflet-challenge
 Module 15 Challenge
 
 Assignment
-For this assignment, I built a web-based Earthquake Visualization using HTML, CSS, and JavaScript with the Leaflet library. The project visually represents significant earthquakes over the past 30 days.
+ Earthquake Visualization using HTML, CSS, and JavaScript with the Leaflet library representing significant earthquakes over the past 30 days.
 
 Description
 logic.js:
