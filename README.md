@@ -16,8 +16,7 @@ index.html:
 To set up the structure for the Leaflet map.
 
 style.css:
-
-Was used to define the full-page layout for the map and style the legend's color boxes.
+to define the full-page layout for the map and style the legend's color boxes.
 
 Credits
-For this challenge, I utilized Google, GitHub, ChatGPT, Stack Overflow, TA assistance, and educational resources related to the unit provided by BCS.
+Google, GitHub, ChatGPT, Stack Overflow
